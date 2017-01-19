@@ -6,7 +6,7 @@ var app = express();
  var firebase = require('firebase');                               //for firebase
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyAa1Gz4LuFjsN81rm6FuYYNCG6G4xw0_-I",
+    apiKey: "<API KEY>",
     authDomain: "node-sample-ad3ef.firebaseapp.com",
     databaseURL: "https://node-sample-ad3ef.firebaseio.com",
     storageBucket: "node-sample-ad3ef.appspot.com",
